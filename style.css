@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(27, 27, 80);
+    color: wheat;
+    text-align: center;
+    margin-top: 5%;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.dice{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+h1{
+    font-size: 80px;
+    text-shadow: 10px;
+}
+p{
+    font-size: 20px;
+}
